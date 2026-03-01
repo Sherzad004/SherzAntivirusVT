@@ -63,4 +63,5 @@ Program Files\AntivirusApp\logs
 (нормально для пользовательских приложений)
 11. Контактная информация
 Разработчик: Sherzod Umarov
-Версия программы: 5.3 (CloudScan VT)
+
+Версия программы: 1.0 (Antivirus VT)
